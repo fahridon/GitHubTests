@@ -6,13 +6,8 @@ using System.Threading.Tasks;
 
 namespace TelefonDefteri
 {
-    class Program
+    class Kisi
     {
-        static void Main(string[] args)
-        {
-            //test
-            //test2
-            //test3
-        }
+        //program
     }
 }
